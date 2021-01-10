@@ -1,0 +1,11 @@
+.loading{
+    display: none;
+}
+.back{
+    background-image: url(img/back.jpg);
+}
+.card{
+    background: transparent;
+    background-color: turquoise;
+    top: 150px;
+}
